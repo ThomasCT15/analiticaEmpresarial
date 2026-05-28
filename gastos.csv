@@ -1,0 +1,1001 @@
+id,fecha,monto,descripcion
+285.0,2026-05-10,700000.0,Entrenamiento del personal
+393.0,,900000.0,alquiler
+140.0,,300000.0,Compra de materiales
+78.0,,400000.0,publicidad
+82.0,,300000.0,publicidad
+266.0,2026-05-07,200000.0,alquiler
+244.0,2026-05-09,300000.0,Compra de materiales
+273.0,2026-05-08,600000.0,
+352.0,,700000.0,mantenimiento
+449.0,2026-05-06,600000.0,
+442.0,2026-05-10,400000.0,comida
+279.0,,700000.0,Entrenamiento del personal
+342.0,2026-05-01,100000.0,publicidad
+68.0,2026-05-10,500000.0,11
+139.0,,500000.0,comida
+55.0,2026-05-04,,publicidad
+,2026-05-07,100000.0,alquiler
+,2026-05-05,700000.0,mantenimiento
+268.0,,100000.0,Gastos de viaje
+186.0,2026-05-02,400000.0,otros
+422.0,,800000.0,Gastos de viaje
+104.0,2026-05-01,500000.0,a
+120.0,,300000.0,otros
+219.0,,400000.0,alquiler
+470.0,,300000.0,comida
+363.0,2026-05-09,400000.0,Compra de materiales
+244.0,2026-05-09,300000.0,
+282.0,2026-05-06,800000.0,
+443.0,2026-05-06,,mantenimiento
+159.0,2026-05-10,600000.0,
+237.0,2026-05-09,,publicidad
+330.0,2026-05-05,300000.0,comida
+,2026-05-04,200000.0,Compra de materiales
+61.0,2026-05-08,1000000.0,publicidad
+27.0,2026-05-09,700000.0,comida
+456.0,,100000.0,comida
+459.0,,200000.0,mantenimiento
+,2026-05-05,800000.0,Gastos de viaje
+280.0,2026-05-03,,alquiler
+475.0,,800000.0,mantenimiento
+35.0,,500000.0,Entrenamiento del personal
+313.0,2026-05-06,800000.0,-10
+23.0,,200000.0,Compra de materiales
+315.0,2026-05-02,200000.0,
+203.0,2026-05-08,300000.0,Entrenamiento del personal
+,2026-05-02,300000.0,otros
+485.0,2026-05-06,900000.0,a
+236.0,2026-05-04,600000.0,Gastos de viaje
+205.0,2026-05-03,,mantenimiento
+382.0,2026-05-02,700000.0,a
+,2026-05-02,200000.0,comida
+434.0,2026-05-06,200000.0,
+180.0,,1000000.0,Compra de materiales
+433.0,2026-05-02,,Inversión en tecnología
+,2026-05-06,200000.0,mantenimiento
+77.0,,900000.0,alquiler
+34.0,2026-05-09,,alquiler
+500.0,2026-05-04,600000.0,alquiler
+,2026-05-02,100000.0,Inversión en tecnología
+,2026-05-07,500000.0,Pago de servicios
+234.0,2026-05-09,,Gastos de viaje
+403.0,2026-05-08,900000.0,-10
+123.0,2026-05-07,,Entrenamiento del personal
+52.0,2026-05-06,100000.0,Gastos de viaje
+194.0,,800000.0,Pago de servicios
+498.0,2026-05-01,200000.0,Inversión en tecnología
+164.0,,700000.0,alquiler
+375.0,2026-05-08,700000.0,comida
+,2026-05-08,400000.0,publicidad
+420.0,2026-05-09,600000.0,Entrenamiento del personal
+469.0,2026-05-05,1000000.0,11
+48.0,,700000.0,otros
+426.0,,500000.0,Entrenamiento del personal
+317.0,2026-05-08,900000.0,a
+289.0,2026-05-08,200000.0,
+163.0,,1000000.0,otros
+262.0,2026-05-08,100000.0,Entrenamiento del personal
+92.0,2026-05-10,800000.0,Inversión en tecnología
+284.0,2026-05-04,-100000.0,publicidad
+252.0,2026-05-04,600000.0,11
+,2026-05-08,100000.0,Entrenamiento del personal
+492.0,,200000.0,comida
+255.0,2026-05-06,-100000.0,Inversión en tecnología
+48.0,2026-05-03,300000.0,mantenimiento
+,2026-05-09,600000.0,Pago de servicios
+22.0,2026-05-03,,publicidad
+322.0,2026-05-08,300000.0,11
+283.0,2026-05-03,-100000.0,comida
+,2026-05-08,300000.0,mantenimiento
+55.0,2026-05-05,-100000.0,Pago de servicios
+,2026-05-05,500000.0,Pago de servicios
+271.0,2026-05-04,,Gastos de viaje
+356.0,2026-05-04,700000.0,mantenimiento
+81.0,,100000.0,alquiler
+185.0,,300000.0,otros
+319.0,2026-05-07,,Gastos de viaje
+472.0,2026-05-09,,publicidad
+385.0,2026-05-02,600000.0,publicidad
+55.0,2026-05-04,500000.0,
+375.0,2026-05-10,900000.0,a
+463.0,,900000.0,comida
+88.0,2026-05-03,-100000.0,otros
+,2026-05-01,300000.0,mantenimiento
+270.0,,900000.0,mantenimiento
+81.0,2026-05-04,1000000.0,11
+376.0,,900000.0,Entrenamiento del personal
+51.0,2026-05-04,700000.0,Gastos de viaje
+356.0,2026-05-06,200000.0,publicidad
+,2026-05-01,800000.0,Compra de materiales
+,2026-05-05,600000.0,Inversión en tecnología
+,2026-05-07,1000000.0,comida
+470.0,2026-05-01,300000.0,11
+,2026-05-10,200000.0,Gastos de viaje
+250.0,2026-05-03,,Inversión en tecnología
+251.0,2026-05-09,500000.0,a
+150.0,2026-05-03,700000.0,a
+222.0,2026-05-07,900000.0,11
+371.0,2026-05-05,,Gastos de viaje
+130.0,2026-05-03,,publicidad
+71.0,,700000.0,Compra de materiales
+297.0,,800000.0,Entrenamiento del personal
+368.0,2026-05-03,200000.0,-10
+390.0,2026-05-01,800000.0,-10
+304.0,2026-05-05,-100000.0,mantenimiento
+,2026-05-10,700000.0,Inversión en tecnología
+,2026-05-01,100000.0,Inversión en tecnología
+,2026-05-09,1000000.0,Gastos de viaje
+,2026-05-05,1000000.0,Inversión en tecnología
+225.0,2026-05-01,-100000.0,Entrenamiento del personal
+289.0,2026-05-05,-100000.0,alquiler
+,2026-05-10,300000.0,comida
+222.0,2026-05-02,,Inversión en tecnología
+375.0,2026-05-04,900000.0,Compra de materiales
+353.0,2026-05-06,1000000.0,otros
+291.0,2026-05-05,100000.0,Gastos de viaje
+242.0,2026-05-08,700000.0,
+318.0,2026-05-08,,Pago de servicios
+373.0,2026-05-09,-100000.0,otros
+307.0,,700000.0,otros
+,2026-05-10,400000.0,comida
+356.0,2026-05-02,700000.0,
+358.0,2026-05-09,900000.0,publicidad
+,2026-05-02,800000.0,mantenimiento
+,2026-05-03,200000.0,Pago de servicios
+459.0,2026-05-03,,mantenimiento
+311.0,2026-05-04,-100000.0,Entrenamiento del personal
+242.0,2026-05-10,800000.0,a
+147.0,,900000.0,Pago de servicios
+,2026-05-01,300000.0,Pago de servicios
+156.0,2026-05-06,300000.0,11
+326.0,,500000.0,Entrenamiento del personal
+461.0,2026-05-08,,Gastos de viaje
+,2026-05-10,700000.0,Pago de servicios
+119.0,,400000.0,Gastos de viaje
+470.0,,900000.0,Entrenamiento del personal
+439.0,2026-05-06,500000.0,-10
+,2026-05-10,500000.0,alquiler
+,2026-05-09,1000000.0,alquiler
+64.0,,900000.0,Gastos de viaje
+447.0,2026-05-06,600000.0,11
+,2026-05-05,200000.0,mantenimiento
+,2026-05-08,200000.0,mantenimiento
+239.0,2026-05-09,800000.0,Compra de materiales
+7.0,2026-05-10,1000000.0,Pago de servicios
+343.0,2026-05-08,1000000.0,
+430.0,2026-05-02,400000.0,
+355.0,,700000.0,Entrenamiento del personal
+438.0,2026-05-07,500000.0,alquiler
+323.0,,500000.0,alquiler
+298.0,2026-05-05,,comida
+331.0,2026-05-06,200000.0,Entrenamiento del personal
+176.0,2026-05-09,,publicidad
+485.0,2026-05-04,100000.0,
+285.0,,700000.0,mantenimiento
+,2026-05-07,700000.0,Inversión en tecnología
+438.0,2026-05-04,,publicidad
+498.0,2026-05-02,,Gastos de viaje
+109.0,2026-05-09,200000.0,a
+164.0,2026-05-10,-100000.0,Pago de servicios
+290.0,2026-05-06,-100000.0,Entrenamiento del personal
+,2026-05-06,600000.0,publicidad
+427.0,2026-05-03,300000.0,
+228.0,,200000.0,publicidad
+434.0,2026-05-06,900000.0,Gastos de viaje
+226.0,2026-05-09,700000.0,a
+,2026-05-05,100000.0,Pago de servicios
+85.0,2026-05-08,,mantenimiento
+161.0,,100000.0,Compra de materiales
+25.0,2026-05-01,700000.0,11
+118.0,2026-05-05,900000.0,Gastos de viaje
+24.0,2026-05-05,100000.0,a
+46.0,2026-05-02,500000.0,Entrenamiento del personal
+52.0,2026-05-05,100000.0,a
+121.0,,700000.0,Inversión en tecnología
+485.0,2026-05-03,,mantenimiento
+139.0,2026-05-06,,comida
+132.0,2026-05-05,,Inversión en tecnología
+170.0,2026-05-05,700000.0,a
+221.0,2026-05-03,900000.0,-10
+237.0,2026-05-05,700000.0,Entrenamiento del personal
+186.0,2026-05-05,800000.0,11
+216.0,,800000.0,Pago de servicios
+259.0,2026-05-05,1000000.0,mantenimiento
+292.0,2026-05-10,700000.0,
+280.0,2026-05-10,100000.0,
+,2026-05-03,700000.0,Inversión en tecnología
+141.0,2026-05-03,900000.0,a
+114.0,,1000000.0,mantenimiento
+33.0,2026-05-04,500000.0,
+248.0,2026-05-06,,Pago de servicios
+,2026-05-04,300000.0,Entrenamiento del personal
+296.0,2026-05-09,,alquiler
+498.0,,700000.0,Inversión en tecnología
+,2026-05-07,100000.0,mantenimiento
+224.0,,500000.0,Gastos de viaje
+406.0,2026-05-10,500000.0,Pago de servicios
+83.0,2026-05-07,,Compra de materiales
+135.0,2026-05-03,100000.0,Gastos de viaje
+338.0,2026-05-03,700000.0,-10
+498.0,2026-05-06,200000.0,alquiler
+296.0,2026-05-10,,Gastos de viaje
+393.0,,1000000.0,comida
+,2026-05-10,600000.0,Inversión en tecnología
+236.0,2026-05-03,-100000.0,comida
+379.0,,700000.0,Pago de servicios
+374.0,2026-05-03,400000.0,a
+,2026-05-02,300000.0,Entrenamiento del personal
+352.0,2026-05-04,,otros
+350.0,2026-05-03,600000.0,comida
+,2026-05-10,200000.0,Entrenamiento del personal
+97.0,2026-05-10,-100000.0,publicidad
+65.0,,400000.0,publicidad
+50.0,2026-05-06,900000.0,11
+371.0,,200000.0,Gastos de viaje
+439.0,,700000.0,Entrenamiento del personal
+169.0,2026-05-06,500000.0,a
+180.0,2026-05-06,700000.0,-10
+24.0,,400000.0,Entrenamiento del personal
+75.0,2026-05-03,400000.0,-10
+184.0,2026-05-06,,alquiler
+378.0,2026-05-09,-100000.0,publicidad
+439.0,2026-05-02,400000.0,mantenimiento
+404.0,2026-05-10,200000.0,a
+159.0,2026-05-08,300000.0,11
+186.0,,1000000.0,Gastos de viaje
+296.0,,200000.0,mantenimiento
+370.0,2026-05-10,,otros
+409.0,,100000.0,Inversión en tecnología
+430.0,2026-05-03,100000.0,a
+487.0,,100000.0,Compra de materiales
+98.0,2026-05-08,300000.0,Compra de materiales
+,2026-05-05,200000.0,Gastos de viaje
+11.0,,900000.0,comida
+192.0,,700000.0,Pago de servicios
+,2026-05-02,100000.0,mantenimiento
+261.0,2026-05-05,-100000.0,comida
+428.0,,700000.0,otros
+457.0,,1000000.0,Gastos de viaje
+422.0,,100000.0,alquiler
+,2026-05-08,200000.0,Compra de materiales
+355.0,2026-05-07,800000.0,a
+482.0,2026-05-08,-100000.0,publicidad
+263.0,2026-05-07,-100000.0,Pago de servicios
+63.0,2026-05-05,200000.0,Entrenamiento del personal
+302.0,2026-05-05,600000.0,
+6.0,2026-05-10,900000.0,
+440.0,2026-05-06,300000.0,-10
+262.0,,200000.0,Gastos de viaje
+216.0,2026-05-06,600000.0,-10
+30.0,2026-05-05,-100000.0,publicidad
+3.0,,300000.0,alquiler
+452.0,,700000.0,Entrenamiento del personal
+497.0,2026-05-06,800000.0,
+394.0,2026-05-01,800000.0,Gastos de viaje
+413.0,,200000.0,Inversión en tecnología
+488.0,2026-05-03,700000.0,11
+461.0,2026-05-08,900000.0,alquiler
+208.0,2026-05-05,300000.0,Compra de materiales
+19.0,2026-05-10,800000.0,a
+,2026-05-04,800000.0,mantenimiento
+253.0,,100000.0,Pago de servicios
+393.0,2026-05-01,,comida
+,2026-05-04,400000.0,Inversión en tecnología
+348.0,2026-05-09,700000.0,Entrenamiento del personal
+370.0,2026-05-05,500000.0,mantenimiento
+312.0,,500000.0,Pago de servicios
+180.0,2026-05-04,400000.0,
+472.0,2026-05-04,-100000.0,publicidad
+484.0,2026-05-04,900000.0,alquiler
+341.0,2026-05-03,,Entrenamiento del personal
+31.0,,600000.0,Entrenamiento del personal
+,2026-05-05,600000.0,Compra de materiales
+297.0,2026-05-01,-100000.0,otros
+385.0,2026-05-09,200000.0,publicidad
+383.0,,700000.0,publicidad
+334.0,2026-05-01,,publicidad
+383.0,2026-05-06,600000.0,otros
+58.0,2026-05-02,600000.0,alquiler
+,2026-05-10,600000.0,Inversión en tecnología
+402.0,2026-05-04,,mantenimiento
+259.0,,200000.0,mantenimiento
+,2026-05-10,100000.0,mantenimiento
+404.0,,700000.0,Gastos de viaje
+475.0,2026-05-07,500000.0,alquiler
+206.0,2026-05-07,700000.0,
+,2026-05-01,500000.0,alquiler
+132.0,,500000.0,Pago de servicios
+,2026-05-04,400000.0,Inversión en tecnología
+382.0,2026-05-03,900000.0,a
+255.0,2026-05-05,-100000.0,otros
+235.0,,400000.0,Gastos de viaje
+233.0,2026-05-01,900000.0,Gastos de viaje
+172.0,2026-05-04,-100000.0,Entrenamiento del personal
+366.0,2026-05-02,500000.0,Pago de servicios
+107.0,,600000.0,Gastos de viaje
+68.0,2026-05-03,600000.0,mantenimiento
+162.0,2026-05-06,-100000.0,Compra de materiales
+391.0,2026-05-06,200000.0,-10
+183.0,,800000.0,comida
+,2026-05-05,800000.0,alquiler
+124.0,2026-05-06,800000.0,otros
+119.0,,1000000.0,otros
+,2026-05-03,100000.0,Entrenamiento del personal
+188.0,2026-05-04,-100000.0,Inversión en tecnología
+126.0,2026-05-06,600000.0,Pago de servicios
+347.0,2026-05-06,300000.0,Pago de servicios
+232.0,,500000.0,Entrenamiento del personal
+483.0,,900000.0,alquiler
+467.0,,400000.0,comida
+,2026-05-08,200000.0,mantenimiento
+333.0,2026-05-06,600000.0,comida
+,2026-05-03,1000000.0,Pago de servicios
+41.0,2026-05-01,800000.0,a
+180.0,2026-05-06,100000.0,
+146.0,2026-05-01,800000.0,
+474.0,2026-05-05,-100000.0,Inversión en tecnología
+38.0,,1000000.0,Pago de servicios
+407.0,2026-05-09,600000.0,Entrenamiento del personal
+263.0,2026-05-09,900000.0,Entrenamiento del personal
+185.0,2026-05-10,200000.0,11
+,2026-05-08,600000.0,publicidad
+,2026-05-03,100000.0,mantenimiento
+315.0,2026-05-03,800000.0,alquiler
+129.0,2026-05-10,900000.0,a
+,2026-05-04,400000.0,Compra de materiales
+66.0,,800000.0,Compra de materiales
+,2026-05-10,1000000.0,alquiler
+,2026-05-03,800000.0,Gastos de viaje
+234.0,2026-05-09,-100000.0,otros
+24.0,2026-05-01,600000.0,Gastos de viaje
+,2026-05-01,800000.0,Pago de servicios
+74.0,2026-05-06,100000.0,-10
+226.0,2026-05-07,-100000.0,comida
+95.0,2026-05-07,-100000.0,Gastos de viaje
+,2026-05-09,300000.0,Gastos de viaje
+282.0,2026-05-03,600000.0,Pago de servicios
+34.0,2026-05-06,-100000.0,Compra de materiales
+,2026-05-05,300000.0,Entrenamiento del personal
+200.0,2026-05-09,,Gastos de viaje
+,2026-05-03,600000.0,Inversión en tecnología
+290.0,2026-05-04,-100000.0,otros
+215.0,2026-05-10,600000.0,
+,2026-05-08,500000.0,Pago de servicios
+,2026-05-10,1000000.0,alquiler
+,2026-05-04,300000.0,publicidad
+206.0,2026-05-09,-100000.0,otros
+439.0,2026-05-03,-100000.0,publicidad
+334.0,2026-05-02,,Pago de servicios
+33.0,2026-05-03,900000.0,Compra de materiales
+397.0,2026-05-10,-100000.0,mantenimiento
+,2026-05-07,100000.0,mantenimiento
+25.0,2026-05-08,800000.0,
+65.0,2026-05-01,-100000.0,Inversión en tecnología
+,2026-05-10,900000.0,Gastos de viaje
+239.0,2026-05-10,900000.0,Inversión en tecnología
+143.0,2026-05-02,,Entrenamiento del personal
+,2026-05-06,600000.0,otros
+429.0,,100000.0,alquiler
+182.0,2026-05-03,,Entrenamiento del personal
+,2026-05-10,700000.0,otros
+231.0,2026-05-09,900000.0,mantenimiento
+368.0,2026-05-07,600000.0,a
+323.0,2026-05-09,500000.0,-10
+494.0,,700000.0,comida
+202.0,2026-05-09,400000.0,Inversión en tecnología
+160.0,2026-05-10,,publicidad
+362.0,,1000000.0,otros
+230.0,2026-05-03,100000.0,11
+,2026-05-05,100000.0,alquiler
+484.0,2026-05-01,,Inversión en tecnología
+,2026-05-06,200000.0,mantenimiento
+,2026-05-01,200000.0,alquiler
+174.0,2026-05-07,,alquiler
+253.0,2026-05-05,-100000.0,mantenimiento
+142.0,2026-05-05,800000.0,Gastos de viaje
+,2026-05-03,800000.0,alquiler
+,2026-05-03,100000.0,comida
+199.0,2026-05-08,600000.0,alquiler
+,2026-05-07,200000.0,comida
+,2026-05-10,200000.0,comida
+14.0,2026-05-10,600000.0,-10
+220.0,2026-05-10,,mantenimiento
+426.0,2026-05-09,500000.0,a
+478.0,2026-05-02,,Entrenamiento del personal
+388.0,2026-05-05,500000.0,
+60.0,2026-05-02,-100000.0,otros
+78.0,2026-05-10,-100000.0,Compra de materiales
+163.0,,300000.0,comida
+184.0,,500000.0,comida
+,2026-05-08,400000.0,alquiler
+491.0,2026-05-07,700000.0,a
+,2026-05-08,400000.0,Gastos de viaje
+239.0,2026-05-03,600000.0,
+231.0,,800000.0,alquiler
+162.0,2026-05-01,500000.0,-10
+482.0,2026-05-03,900000.0,
+6.0,2026-05-08,500000.0,a
+461.0,2026-05-04,,Entrenamiento del personal
+21.0,,100000.0,mantenimiento
+,2026-05-01,600000.0,mantenimiento
+,2026-05-09,1000000.0,publicidad
+298.0,2026-05-10,-100000.0,otros
+472.0,2026-05-08,,mantenimiento
+394.0,,500000.0,Gastos de viaje
+,2026-05-01,900000.0,comida
+10.0,,1000000.0,mantenimiento
+,2026-05-04,700000.0,Gastos de viaje
+93.0,2026-05-10,100000.0,otros
+190.0,2026-05-07,800000.0,11
+353.0,2026-05-04,600000.0,Compra de materiales
+,2026-05-03,300000.0,publicidad
+252.0,2026-05-04,-100000.0,Compra de materiales
+34.0,2026-05-10,200000.0,otros
+305.0,,600000.0,Gastos de viaje
+43.0,2026-05-07,400000.0,Gastos de viaje
+282.0,2026-05-07,,publicidad
+307.0,2026-05-05,600000.0,-10
+276.0,2026-05-09,900000.0,-10
+,2026-05-03,900000.0,Pago de servicios
+,2026-05-10,900000.0,comida
+223.0,,500000.0,otros
+,2026-05-03,600000.0,mantenimiento
+69.0,2026-05-07,,alquiler
+478.0,2026-05-10,-100000.0,Inversión en tecnología
+137.0,2026-05-06,400000.0,Gastos de viaje
+432.0,,100000.0,otros
+4.0,2026-05-09,100000.0,publicidad
+290.0,2026-05-10,-100000.0,Gastos de viaje
+338.0,,500000.0,Entrenamiento del personal
+,2026-05-06,500000.0,alquiler
+223.0,2026-05-03,800000.0,comida
+243.0,2026-05-08,,comida
+35.0,2026-05-01,700000.0,alquiler
+342.0,2026-05-01,100000.0,a
+357.0,,1000000.0,comida
+216.0,,300000.0,publicidad
+282.0,,400000.0,mantenimiento
+146.0,2026-05-08,700000.0,11
+180.0,2026-05-10,900000.0,alquiler
+470.0,2026-05-04,700000.0,alquiler
+276.0,2026-05-05,700000.0,a
+367.0,2026-05-03,300000.0,a
+451.0,,900000.0,Gastos de viaje
+136.0,2026-05-02,-100000.0,alquiler
+440.0,2026-05-05,100000.0,Entrenamiento del personal
+326.0,2026-05-03,600000.0,
+112.0,,700000.0,mantenimiento
+164.0,2026-05-03,,Compra de materiales
+38.0,2026-05-09,-100000.0,Inversión en tecnología
+99.0,,300000.0,Pago de servicios
+136.0,2026-05-07,400000.0,-10
+393.0,2026-05-05,500000.0,-10
+,2026-05-01,700000.0,publicidad
+272.0,2026-05-01,-100000.0,Pago de servicios
+366.0,2026-05-02,800000.0,Entrenamiento del personal
+,2026-05-09,1000000.0,Gastos de viaje
+412.0,2026-05-04,-100000.0,Compra de materiales
+131.0,,1000000.0,mantenimiento
+103.0,,600000.0,mantenimiento
+282.0,2026-05-05,500000.0,comida
+342.0,2026-05-03,,alquiler
+437.0,,700000.0,alquiler
+,2026-05-10,700000.0,Gastos de viaje
+68.0,2026-05-03,900000.0,publicidad
+86.0,,100000.0,Entrenamiento del personal
+374.0,2026-05-08,300000.0,-10
+229.0,2026-05-03,200000.0,mantenimiento
+143.0,2026-05-10,200000.0,-10
+,2026-05-03,1000000.0,Pago de servicios
+237.0,,100000.0,Pago de servicios
+401.0,2026-05-02,200000.0,
+390.0,2026-05-03,400000.0,a
+378.0,2026-05-10,-100000.0,Pago de servicios
+192.0,,400000.0,Pago de servicios
+,2026-05-10,900000.0,Entrenamiento del personal
+227.0,,800000.0,alquiler
+335.0,,500000.0,Pago de servicios
+454.0,2026-05-10,,Gastos de viaje
+15.0,2026-05-02,300000.0,
+,2026-05-07,100000.0,alquiler
+488.0,2026-05-07,-100000.0,otros
+475.0,2026-05-02,300000.0,Inversión en tecnología
+490.0,,800000.0,Entrenamiento del personal
+467.0,2026-05-04,200000.0,11
+364.0,2026-05-04,-100000.0,Inversión en tecnología
+162.0,,800000.0,Pago de servicios
+370.0,2026-05-10,-100000.0,Gastos de viaje
+39.0,2026-05-04,1000000.0,otros
+346.0,2026-05-01,-100000.0,comida
+,2026-05-07,1000000.0,otros
+,2026-05-07,800000.0,alquiler
+21.0,2026-05-03,1000000.0,Gastos de viaje
+5.0,2026-05-08,800000.0,a
+319.0,2026-05-03,400000.0,
+101.0,2026-05-08,,alquiler
+377.0,2026-05-03,-100000.0,comida
+490.0,2026-05-10,900000.0,11
+68.0,,900000.0,publicidad
+489.0,2026-05-02,1000000.0,a
+466.0,2026-05-05,-100000.0,Inversión en tecnología
+,2026-05-10,800000.0,comida
+376.0,2026-05-02,300000.0,-10
+437.0,2026-05-01,-100000.0,otros
+235.0,2026-05-02,,comida
+494.0,2026-05-02,-100000.0,Compra de materiales
+472.0,2026-05-04,-100000.0,publicidad
+425.0,,300000.0,alquiler
+292.0,2026-05-07,800000.0,publicidad
+6.0,,800000.0,comida
+56.0,2026-05-02,,publicidad
+48.0,2026-05-07,700000.0,11
+187.0,2026-05-09,,Inversión en tecnología
+,2026-05-02,400000.0,otros
+122.0,2026-05-09,600000.0,
+262.0,2026-05-01,300000.0,-10
+483.0,2026-05-10,800000.0,-10
+373.0,,600000.0,mantenimiento
+291.0,2026-05-08,700000.0,-10
+215.0,,700000.0,Compra de materiales
+273.0,2026-05-02,-100000.0,publicidad
+499.0,2026-05-06,-100000.0,publicidad
+155.0,2026-05-02,,mantenimiento
+,2026-05-04,100000.0,Compra de materiales
+132.0,,900000.0,Pago de servicios
+65.0,,800000.0,Inversión en tecnología
+451.0,2026-05-05,1000000.0,Pago de servicios
+,2026-05-08,700000.0,Gastos de viaje
+,2026-05-08,100000.0,otros
+476.0,2026-05-10,300000.0,
+148.0,2026-05-09,,publicidad
+332.0,,400000.0,Compra de materiales
+493.0,2026-05-10,800000.0,comida
+23.0,2026-05-09,700000.0,Pago de servicios
+329.0,2026-05-10,300000.0,-10
+143.0,2026-05-05,,otros
+165.0,2026-05-07,-100000.0,mantenimiento
+297.0,2026-05-09,,Gastos de viaje
+,2026-05-07,200000.0,alquiler
+122.0,2026-05-07,,Compra de materiales
+,2026-05-05,400000.0,alquiler
+485.0,2026-05-07,1000000.0,Pago de servicios
+321.0,2026-05-10,,Inversión en tecnología
+251.0,,300000.0,Compra de materiales
+430.0,2026-05-05,300000.0,Pago de servicios
+298.0,2026-05-10,600000.0,
+60.0,2026-05-02,600000.0,a
+,2026-05-01,900000.0,mantenimiento
+362.0,,400000.0,otros
+164.0,2026-05-10,800000.0,
+6.0,2026-05-07,,Gastos de viaje
+,2026-05-10,100000.0,otros
+453.0,2026-05-07,400000.0,a
+388.0,2026-05-06,700000.0,mantenimiento
+334.0,2026-05-09,1000000.0,
+18.0,2026-05-03,900000.0,-10
+96.0,,600000.0,Gastos de viaje
+,2026-05-02,700000.0,publicidad
+,2026-05-01,900000.0,Entrenamiento del personal
+42.0,2026-05-04,300000.0,Pago de servicios
+311.0,,900000.0,otros
+,2026-05-07,400000.0,alquiler
+303.0,,100000.0,Compra de materiales
+294.0,2026-05-06,300000.0,
+136.0,2026-05-01,1000000.0,a
+419.0,2026-05-06,800000.0,-10
+206.0,2026-05-09,300000.0,11
+32.0,2026-05-03,700000.0,mantenimiento
+482.0,,600000.0,mantenimiento
+,2026-05-09,600000.0,otros
+85.0,2026-05-08,700000.0,a
+215.0,2026-05-05,1000000.0,
+,2026-05-01,700000.0,Inversión en tecnología
+,2026-05-10,900000.0,mantenimiento
+377.0,2026-05-09,,otros
+259.0,2026-05-06,200000.0,a
+140.0,2026-05-03,300000.0,
+245.0,2026-05-08,,Inversión en tecnología
+155.0,2026-05-09,1000000.0,publicidad
+,2026-05-10,1000000.0,alquiler
+,2026-05-05,300000.0,publicidad
+160.0,2026-05-04,,otros
+217.0,2026-05-06,400000.0,11
+227.0,2026-05-02,400000.0,
+298.0,2026-05-08,300000.0,
+290.0,2026-05-09,200000.0,
+158.0,2026-05-07,,Pago de servicios
+305.0,2026-05-05,,otros
+472.0,2026-05-08,,Pago de servicios
+467.0,2026-05-04,700000.0,Pago de servicios
+372.0,2026-05-06,900000.0,a
+166.0,,300000.0,alquiler
+27.0,2026-05-07,300000.0,otros
+211.0,2026-05-04,300000.0,-10
+312.0,2026-05-01,1000000.0,11
+,2026-05-04,300000.0,Gastos de viaje
+339.0,2026-05-07,400000.0,
+,2026-05-09,800000.0,Entrenamiento del personal
+,2026-05-01,800000.0,alquiler
+482.0,,600000.0,otros
+71.0,2026-05-03,1000000.0,alquiler
+423.0,2026-05-10,-100000.0,Compra de materiales
+80.0,2026-05-07,800000.0,alquiler
+,2026-05-05,800000.0,alquiler
+115.0,,300000.0,comida
+16.0,2026-05-05,200000.0,alquiler
+,2026-05-02,1000000.0,Gastos de viaje
+67.0,,200000.0,Pago de servicios
+423.0,2026-05-02,,Inversión en tecnología
+,2026-05-05,100000.0,publicidad
+308.0,2026-05-09,800000.0,Pago de servicios
+,2026-05-07,900000.0,otros
+328.0,2026-05-09,-100000.0,Pago de servicios
+87.0,,600000.0,alquiler
+244.0,2026-05-02,-100000.0,Gastos de viaje
+100.0,2026-05-09,800000.0,Gastos de viaje
+,2026-05-03,800000.0,publicidad
+297.0,2026-05-02,,Gastos de viaje
+361.0,2026-05-07,1000000.0,
+98.0,2026-05-08,200000.0,publicidad
+26.0,,1000000.0,otros
+106.0,2026-05-05,,alquiler
+125.0,2026-05-02,,mantenimiento
+194.0,2026-05-06,,comida
+455.0,2026-05-07,200000.0,
+72.0,,800000.0,otros
+,2026-05-02,400000.0,mantenimiento
+444.0,2026-05-08,,Compra de materiales
+343.0,2026-05-02,-100000.0,mantenimiento
+30.0,2026-05-10,600000.0,11
+112.0,2026-05-10,400000.0,Inversión en tecnología
+126.0,,200000.0,Gastos de viaje
+,2026-05-09,1000000.0,Compra de materiales
+403.0,,200000.0,Pago de servicios
+256.0,2026-05-09,,Gastos de viaje
+96.0,2026-05-09,800000.0,alquiler
+43.0,,700000.0,alquiler
+440.0,2026-05-09,-100000.0,Pago de servicios
+,2026-05-05,300000.0,Entrenamiento del personal
+294.0,,600000.0,alquiler
+27.0,2026-05-07,500000.0,otros
+31.0,,1000000.0,publicidad
+447.0,2026-05-01,-100000.0,Inversión en tecnología
+387.0,,400000.0,Entrenamiento del personal
+171.0,,700000.0,Compra de materiales
+298.0,2026-05-10,,mantenimiento
+230.0,2026-05-07,400000.0,Gastos de viaje
+108.0,2026-05-07,-100000.0,alquiler
+33.0,2026-05-09,,otros
+281.0,2026-05-01,,comida
+252.0,,100000.0,comida
+303.0,2026-05-09,300000.0,
+,2026-05-10,400000.0,Entrenamiento del personal
+,2026-05-01,400000.0,alquiler
+434.0,,1000000.0,Inversión en tecnología
+278.0,2026-05-06,500000.0,comida
+472.0,2026-05-03,100000.0,comida
+330.0,,1000000.0,Compra de materiales
+209.0,2026-05-06,-100000.0,mantenimiento
+,2026-05-05,200000.0,publicidad
+390.0,2026-05-03,-100000.0,publicidad
+90.0,2026-05-01,,alquiler
+,2026-05-01,400000.0,mantenimiento
+255.0,,500000.0,alquiler
+,2026-05-03,800000.0,Compra de materiales
+30.0,,900000.0,Compra de materiales
+,2026-05-07,500000.0,Gastos de viaje
+69.0,,300000.0,Entrenamiento del personal
+82.0,2026-05-02,-100000.0,otros
+56.0,2026-05-08,200000.0,mantenimiento
+6.0,2026-05-09,700000.0,Gastos de viaje
+56.0,,300000.0,publicidad
+90.0,2026-05-01,,Inversión en tecnología
+234.0,,200000.0,Inversión en tecnología
+373.0,2026-05-09,-100000.0,alquiler
+75.0,2026-05-02,-100000.0,alquiler
+,2026-05-05,100000.0,Compra de materiales
+213.0,,500000.0,Pago de servicios
+106.0,2026-05-05,900000.0,publicidad
+188.0,,300000.0,mantenimiento
+278.0,2026-05-07,400000.0,-10
+283.0,2026-05-01,400000.0,-10
+64.0,,700000.0,Compra de materiales
+476.0,2026-05-08,,alquiler
+448.0,,400000.0,alquiler
+214.0,2026-05-03,600000.0,Pago de servicios
+,2026-05-08,400000.0,mantenimiento
+216.0,,600000.0,alquiler
+476.0,2026-05-04,,Compra de materiales
+135.0,,500000.0,Gastos de viaje
+,2026-05-01,1000000.0,Gastos de viaje
+72.0,2026-05-03,500000.0,-10
+245.0,2026-05-04,900000.0,Entrenamiento del personal
+,2026-05-09,500000.0,mantenimiento
+490.0,2026-05-05,800000.0,Gastos de viaje
+315.0,2026-05-08,300000.0,publicidad
+300.0,2026-05-03,500000.0,Gastos de viaje
+205.0,2026-05-06,,alquiler
+500.0,2026-05-01,,otros
+,2026-05-04,300000.0,Pago de servicios
+41.0,2026-05-03,,comida
+53.0,2026-05-02,,Entrenamiento del personal
+,2026-05-04,700000.0,alquiler
+362.0,2026-05-05,800000.0,alquiler
+119.0,2026-05-10,200000.0,11
+67.0,,300000.0,Inversión en tecnología
+482.0,,400000.0,comida
+280.0,2026-05-06,-100000.0,publicidad
+,2026-05-07,100000.0,alquiler
+281.0,,600000.0,Gastos de viaje
+26.0,2026-05-05,200000.0,-10
+142.0,2026-05-07,-100000.0,publicidad
+482.0,,800000.0,Entrenamiento del personal
+,2026-05-08,200000.0,otros
+,2026-05-06,700000.0,alquiler
+379.0,2026-05-04,700000.0,a
+281.0,2026-05-01,,alquiler
+,2026-05-10,800000.0,Entrenamiento del personal
+467.0,2026-05-02,200000.0,-10
+227.0,,500000.0,Entrenamiento del personal
+477.0,2026-05-09,600000.0,mantenimiento
+48.0,2026-05-03,-100000.0,Entrenamiento del personal
+,2026-05-04,700000.0,mantenimiento
+42.0,2026-05-02,-100000.0,mantenimiento
+441.0,,900000.0,otros
+309.0,,900000.0,Inversión en tecnología
+497.0,,500000.0,Gastos de viaje
+,2026-05-07,200000.0,alquiler
+178.0,,100000.0,publicidad
+59.0,2026-05-05,700000.0,11
+457.0,,600000.0,otros
+58.0,2026-05-07,-100000.0,Compra de materiales
+,2026-05-04,1000000.0,comida
+117.0,2026-05-05,300000.0,Compra de materiales
+351.0,2026-05-03,700000.0,-10
+27.0,2026-05-02,600000.0,a
+376.0,,900000.0,comida
+214.0,,300000.0,Gastos de viaje
+362.0,2026-05-09,,otros
+51.0,,100000.0,Entrenamiento del personal
+31.0,2026-05-04,,comida
+500.0,2026-05-10,300000.0,Pago de servicios
+56.0,2026-05-06,800000.0,11
+386.0,2026-05-07,,Inversión en tecnología
+151.0,2026-05-10,400000.0,mantenimiento
+27.0,2026-05-04,800000.0,a
+118.0,2026-05-09,300000.0,a
+341.0,,400000.0,comida
+327.0,2026-05-05,700000.0,-10
+,2026-05-02,100000.0,alquiler
+449.0,,300000.0,Pago de servicios
+437.0,,500000.0,Inversión en tecnología
+154.0,,700000.0,Entrenamiento del personal
+428.0,2026-05-06,700000.0,
+,2026-05-06,1000000.0,Pago de servicios
+,2026-05-06,100000.0,Compra de materiales
+111.0,,1000000.0,alquiler
+306.0,,200000.0,otros
+237.0,2026-05-09,400000.0,Entrenamiento del personal
+,2026-05-01,900000.0,comida
+299.0,2026-05-02,-100000.0,mantenimiento
+275.0,2026-05-04,1000000.0,mantenimiento
+300.0,2026-05-06,800000.0,Entrenamiento del personal
+238.0,,200000.0,Gastos de viaje
+172.0,2026-05-10,500000.0,mantenimiento
+197.0,,700000.0,Pago de servicios
+,2026-05-10,500000.0,Gastos de viaje
+480.0,2026-05-07,,alquiler
+453.0,2026-05-01,,comida
+,2026-05-01,600000.0,alquiler
+,2026-05-03,400000.0,comida
+155.0,2026-05-03,600000.0,11
+,2026-05-05,900000.0,publicidad
+,2026-05-01,400000.0,alquiler
+394.0,,600000.0,Compra de materiales
+372.0,2026-05-10,,publicidad
+,2026-05-01,300000.0,publicidad
+,2026-05-06,800000.0,mantenimiento
+,2026-05-07,300000.0,publicidad
+141.0,2026-05-08,,mantenimiento
+,2026-05-10,800000.0,Inversión en tecnología
+,2026-05-05,1000000.0,Pago de servicios
+,2026-05-05,900000.0,otros
+114.0,2026-05-05,800000.0,comida
+,2026-05-07,600000.0,alquiler
+,2026-05-10,600000.0,comida
+270.0,2026-05-02,200000.0,Pago de servicios
+,2026-05-04,400000.0,otros
+410.0,2026-05-01,400000.0,a
+133.0,,900000.0,Entrenamiento del personal
+410.0,2026-05-05,,Entrenamiento del personal
+,2026-05-07,800000.0,Entrenamiento del personal
+493.0,,700000.0,comida
+,2026-05-08,700000.0,otros
+398.0,,600000.0,Entrenamiento del personal
+493.0,2026-05-03,100000.0,Inversión en tecnología
+291.0,2026-05-04,500000.0,
+280.0,,600000.0,Inversión en tecnología
+103.0,2026-05-09,700000.0,Inversión en tecnología
+,2026-05-05,100000.0,comida
+297.0,,700000.0,Inversión en tecnología
+497.0,2026-05-06,700000.0,-10
+107.0,2026-05-09,600000.0,-10
+163.0,2026-05-06,200000.0,-10
+160.0,,900000.0,publicidad
+,2026-05-03,800000.0,comida
+164.0,,200000.0,otros
+335.0,2026-05-06,300000.0,comida
+93.0,2026-05-10,-100000.0,alquiler
+,2026-05-07,400000.0,mantenimiento
+292.0,2026-05-05,300000.0,Entrenamiento del personal
+300.0,2026-05-06,-100000.0,Entrenamiento del personal
+344.0,2026-05-07,400000.0,11
+105.0,,700000.0,Entrenamiento del personal
+,2026-05-08,600000.0,Inversión en tecnología
+136.0,2026-05-04,-100000.0,Pago de servicios
+483.0,,400000.0,Inversión en tecnología
+145.0,,600000.0,Entrenamiento del personal
+,2026-05-06,700000.0,Compra de materiales
+,2026-05-05,1000000.0,Compra de materiales
+394.0,2026-05-03,1000000.0,11
+170.0,,500000.0,Entrenamiento del personal
+,2026-05-07,700000.0,Entrenamiento del personal
+415.0,2026-05-03,200000.0,a
+13.0,2026-05-04,800000.0,11
+489.0,2026-05-05,300000.0,a
+95.0,,500000.0,Entrenamiento del personal
+216.0,2026-05-05,700000.0,a
+441.0,2026-05-02,,Pago de servicios
+,2026-05-01,700000.0,Pago de servicios
+31.0,2026-05-05,-100000.0,alquiler
+,2026-05-10,600000.0,otros
+295.0,,700000.0,comida
+114.0,2026-05-10,1000000.0,a
+454.0,2026-05-08,500000.0,a
+479.0,2026-05-07,300000.0,mantenimiento
+373.0,2026-05-08,400000.0,-10
+,2026-05-06,100000.0,Entrenamiento del personal
+289.0,2026-05-01,900000.0,
+463.0,2026-05-01,800000.0,alquiler
+348.0,2026-05-02,,Inversión en tecnología
+111.0,,600000.0,Inversión en tecnología
+,2026-05-01,200000.0,Gastos de viaje
+308.0,2026-05-06,,Pago de servicios
+452.0,2026-05-08,100000.0,Entrenamiento del personal
+304.0,,400000.0,Pago de servicios
+285.0,2026-05-06,100000.0,Inversión en tecnología
+305.0,2026-05-01,300000.0,
+422.0,2026-05-07,600000.0,mantenimiento
+,2026-05-06,500000.0,publicidad
+88.0,2026-05-10,,mantenimiento
+344.0,2026-05-06,1000000.0,11
+,2026-05-01,800000.0,Entrenamiento del personal
+370.0,2026-05-09,-100000.0,Compra de materiales
+42.0,2026-05-09,-100000.0,publicidad
+,2026-05-06,800000.0,comida
+201.0,2026-05-01,-100000.0,Inversión en tecnología
+339.0,2026-05-07,1000000.0,a
+438.0,2026-05-05,800000.0,
+137.0,2026-05-04,200000.0,Pago de servicios
+7.0,2026-05-09,1000000.0,a
+,2026-05-06,500000.0,mantenimiento
+228.0,2026-05-01,200000.0,alquiler
+,2026-05-01,400000.0,otros
+26.0,2026-05-09,200000.0,Entrenamiento del personal
+321.0,2026-05-01,500000.0,Entrenamiento del personal
+146.0,2026-05-07,900000.0,
+123.0,,700000.0,Entrenamiento del personal
+190.0,2026-05-08,900000.0,11
+127.0,2026-05-06,400000.0,alquiler
+295.0,2026-05-01,1000000.0,otros
+153.0,,700000.0,Compra de materiales
+325.0,2026-05-05,400000.0,Gastos de viaje
+360.0,2026-05-05,400000.0,alquiler
+296.0,2026-05-05,600000.0,Pago de servicios
+484.0,,1000000.0,Entrenamiento del personal
+413.0,,300000.0,Inversión en tecnología
+,2026-05-06,200000.0,alquiler
+27.0,,700000.0,comida
+29.0,,1000000.0,alquiler
+290.0,2026-05-08,,Pago de servicios
+64.0,2026-05-10,900000.0,Compra de materiales
+462.0,2026-05-01,-100000.0,Gastos de viaje
+155.0,2026-05-10,300000.0,Compra de materiales
+365.0,2026-05-03,600000.0,Entrenamiento del personal
+356.0,2026-05-06,-100000.0,Inversión en tecnología
+321.0,2026-05-08,500000.0,Pago de servicios
+413.0,2026-05-04,300000.0,-10
+224.0,,400000.0,Gastos de viaje
+309.0,2026-05-07,100000.0,mantenimiento
+82.0,2026-05-04,-100000.0,Entrenamiento del personal
+26.0,,1000000.0,otros
+343.0,2026-05-02,200000.0,Compra de materiales
+,2026-05-04,400000.0,mantenimiento
+416.0,2026-05-07,800000.0,Compra de materiales
+130.0,2026-05-06,-100000.0,publicidad
+454.0,2026-05-01,200000.0,-10
+234.0,2026-05-07,,Gastos de viaje
+500.0,2026-05-09,,Entrenamiento del personal
+71.0,2026-05-07,-100000.0,Gastos de viaje
+159.0,2026-05-03,,Inversión en tecnología
+117.0,2026-05-03,1000000.0,mantenimiento
+163.0,2026-05-02,,otros
+,2026-05-04,900000.0,Pago de servicios
+485.0,,500000.0,comida
+300.0,,200000.0,Inversión en tecnología
+,2026-05-06,900000.0,publicidad
+457.0,2026-05-09,,publicidad
+175.0,2026-05-08,600000.0,
+408.0,2026-05-02,700000.0,Entrenamiento del personal
+335.0,2026-05-06,700000.0,
+374.0,,900000.0,Compra de materiales
+440.0,2026-05-07,500000.0,a
+,2026-05-03,100000.0,Entrenamiento del personal
+203.0,2026-05-03,-100000.0,otros
+,2026-05-04,400000.0,otros
+380.0,,500000.0,otros
+65.0,2026-05-08,900000.0,a
+211.0,2026-05-09,900000.0,Gastos de viaje
+,2026-05-04,200000.0,Compra de materiales
+185.0,2026-05-01,500000.0,Entrenamiento del personal
+380.0,2026-05-04,300000.0,a
+68.0,2026-05-06,100000.0,
+,2026-05-10,1000000.0,Compra de materiales
+89.0,2026-05-08,300000.0,-10
+128.0,2026-05-06,200000.0,a
+404.0,,100000.0,otros
+410.0,2026-05-03,900000.0,-10
+448.0,2026-05-06,,Entrenamiento del personal
+117.0,2026-05-06,800000.0,-10
+,2026-05-04,600000.0,Pago de servicios
+,2026-05-03,300000.0,publicidad
+51.0,2026-05-03,700000.0,Compra de materiales
+51.0,2026-05-03,200000.0,mantenimiento
+194.0,2026-05-07,-100000.0,Entrenamiento del personal
+108.0,,200000.0,Inversión en tecnología
+414.0,2026-05-05,600000.0,
+472.0,,500000.0,otros
+199.0,2026-05-02,,Gastos de viaje
+54.0,2026-05-04,,publicidad
+166.0,2026-05-10,1000000.0,comida
+,2026-05-07,300000.0,mantenimiento
+38.0,2026-05-05,300000.0,a
+425.0,2026-05-03,200000.0,11
+,2026-05-02,600000.0,Entrenamiento del personal
+,2026-05-08,700000.0,Gastos de viaje
+,2026-05-03,200000.0,Compra de materiales
+317.0,2026-05-02,,Gastos de viaje
+353.0,2026-05-01,700000.0,Gastos de viaje
+121.0,2026-05-03,,Gastos de viaje
+322.0,2026-05-04,-100000.0,comida
+11.0,,900000.0,Entrenamiento del personal
+105.0,,1000000.0,Entrenamiento del personal
+,2026-05-02,900000.0,Pago de servicios
+334.0,2026-05-03,700000.0,alquiler
+76.0,,800000.0,otros
+351.0,2026-05-02,800000.0,a
+,2026-05-04,600000.0,Entrenamiento del personal
+143.0,,200000.0,Entrenamiento del personal
+33.0,2026-05-01,600000.0,11
+78.0,,600000.0,mantenimiento
+414.0,2026-05-02,700000.0,
+41.0,2026-05-03,800000.0,a
+173.0,2026-05-10,400000.0,a
+37.0,,500000.0,alquiler
+496.0,,600000.0,Inversión en tecnología
+438.0,,400000.0,otros
+,2026-05-10,400000.0,alquiler
+,2026-05-03,400000.0,publicidad
+,2026-05-01,800000.0,Entrenamiento del personal
+250.0,,500000.0,Pago de servicios
+21.0,,500000.0,Pago de servicios
+497.0,2026-05-03,400000.0,
+173.0,,900000.0,otros
+455.0,,400000.0,Inversión en tecnología
+,2026-05-01,800000.0,comida
+185.0,2026-05-10,-100000.0,Pago de servicios
+24.0,,200000.0,Inversión en tecnología
+33.0,2026-05-06,200000.0,Entrenamiento del personal
+462.0,2026-05-05,200000.0,Gastos de viaje
+369.0,,700000.0,Entrenamiento del personal
