@@ -1,23 +1,23 @@
 def transformar_gastos(df_gastos_limpio):
 
-    #Filtrar los gastos con monto mayor a 50000 agrupados por descripcion (Barras)
+    #Filtrar los gastos con monto mayor a 50000 agrupados por descripcion (Barras) (sumar)
     filtro1=df_gastos_limpio.query("monto > 50000")
-    agrupacion1=filtro1.groupby("descripcion")["id"].count().reset_index()
+    agrupacion1=filtro1.groupby("descripcion")["id"].sum().reset_index()
     agrupacion1.columns=["descripcion","cantidad"]
 
     #Todos los gastos agrupados por fecha (Lineas) (sumar)
     filtro2=df_gastos_limpio.query("fecha == fecha")
-    agrupacion2=filtro2.groupby("fecha")["monto"].sum().reset_index()
+    agrupacion2=filtro2.groupby("fecha")["id"].sum().reset_index()
     agrupacion2.columns=["fecha","total"]
 
-    #Todos los gastos agrupados por descripcion (Torta) (sumar)
+    #Todos los gastos agrupados por descripcion (Torta) (contar)
     filtro3=df_gastos_limpio.query("descripcion == descripcion")
-    agrupacion3=filtro3.groupby("descripcion")["monto"].sum().reset_index()
-    agrupacion3.columns=["descripcion","total"]
+    agrupacion3=filtro3.groupby("descripcion")["id"].count().reset_index()
+    agrupacion3.columns=["descripcion","cantidad"]
 
     #Gastos menores a 100000 agrupados por descripcion (Barras) (promedio)
     filtro4=df_gastos_limpio.query("monto < 100000")
-    agrupacion4=filtro4.groupby("descripcion")["monto"].mean().reset_index()
+    agrupacion4=filtro4.groupby("descripcion")["id"].mean().reset_index()
     agrupacion4.columns=["descripcion","promedio"]
 
     #Gastos con monto entre 1000 y 20000 agrupados por fecha (Lineas) (contar)
